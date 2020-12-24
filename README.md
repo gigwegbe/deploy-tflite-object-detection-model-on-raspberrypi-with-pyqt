@@ -1,0 +1,1 @@
+# deploy-tflite-object-detection-model-on-raspberrypi-with-pyqt
