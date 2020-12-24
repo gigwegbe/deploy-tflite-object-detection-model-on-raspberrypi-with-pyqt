@@ -1,1 +1,1 @@
-# deploy-tflite-object-detection-model-on-raspberrypi-with-pyqt
+# Deploy tflite Object Detection model on Raspberry Pi4 with PYQT
